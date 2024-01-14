@@ -23,6 +23,7 @@
 - [objetivos](#id01)
 - [descrição detalhada](#id01.01)
 - [tecnologias de estudos](#id04)
+- - [documentação e cursos](#id04.01)
 - [ambiente de codificação](#id05)
 - [clonagem e instalação](#id06)
 - [autoria](#id07)
@@ -49,6 +50,14 @@ Domínio dos conceitos fundamentais do Git, desde a criação e clonagem de repo
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/terminal-0D1117?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+</div>
+
+# documentação e cursos <a name="id04.01"></a>
+
+<div  align='center'> 
+
+ [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+![curso](https://img.shields.io/badge/rocketseat-0D1117?style=for-the-badge&logo=Databricks&logoColor=blue)
 </div>
 
 # ambiente de codificação <a name="id05"></a>
