@@ -23,6 +23,7 @@
 - [objetivos](#id01)
 - [descrição detalhada](#id01.01)
 - [tecnologias de estudos](#id04)
+- - [documentação e cursos](#id04.01)
 - [ambiente de codificação](#id05)
 - [clonagem e instalação](#id06)
 - [autoria](#id07)
@@ -51,6 +52,14 @@ Além disso, mergulhe nos intrincados processos de transpilação de código-fon
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/terminal-0D1117?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=red)
+</div>
+
+# documentação e cursos <a name="id04.01"></a>
+
+<div  align='center'> 
+
+ [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+![curso](https://img.shields.io/badge/rocketseat-0D1117?style=for-the-badge&logo=Databricks&logoColor=blue)
 </div>
 
 # ambiente de codificação <a name="id05"></a>
