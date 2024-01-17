@@ -32,15 +32,16 @@
 # objetivos <a name="id01"></a>
 
 
-Explorar e dominar o controle de versão com Git para aprimorar a colaboração e o gerenciamento de projetos de desenvolvimento de software.
+Este é um guia abrangente para iniciantes que desejam compreender o que é <strong>linha de comando (CLI)</strong>, aprender a utilizar o <strong>Git</strong> para controle de versão, explorar o <strong>NPM</strong> para gerenciamento de pacotes, e mergulhar em conceitos avançados como <strong></strong>Babel. Desde os fundamentos até curiosidades, este recurso centraliza informações valiosas para facilitar seu aprendizado.
 
 
 
 # descrição detalhada <a name="id01.01"></a>
 
 
-Domínio dos conceitos fundamentais do Git, desde a criação e clonagem de repositórios até o uso avançado de branches, commits, merges e resolução de conflitos. Exploração de estratégias de fluxo de trabalho, como o Gitflow, e compreensão do uso de ferramentas complementares, como o GitHub, para facilitar a colaboração em equipe.
+ Elaborei esse recurso didático para proporcionar uma compreensão das ferramentas essenciais no desenvolvimento de software. Este guia abrange tópicos cruciais, desde comandos básicos da linha de comando até técnicas de controle de versão com o <strong>Git</strong> e ecossistema do<strong> Node Package Manager (NPM)</strong>  para eficiente gerenciamento de dependências em projetos.
 
+Além disso, mergulhe nos intrincados processos de transpilação de código-fonte utilizando o Babel, uma ferramenta poderosa para garantir a compatibilidade e o desempenho do código em diferentes ambientes. Navegue por seções repletas de dicas práticas, exemplos de uso e curiosidades, tudo projetado para acelerar sua curva de aprendizado.
 
 # tecnologias de estudo <a name="id04"></a>
 
@@ -49,6 +50,7 @@ Domínio dos conceitos fundamentais do Git, desde a criação e clonagem de repo
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/terminal-0D1117?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=red)
 </div>
 
 # ambiente de codificação <a name="id05"></a>
