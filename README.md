@@ -39,7 +39,7 @@ Este é um guia abrangente que explora as práticas fundamentais de automação 
 # descrição detalhada <a name="id01.01"></a>
 Aqui trarei um recurso panorâmico projetado para orientar desenvolvedores front-end no ambiente da automação. Este repositório aborda diversos tópicos em suas respectivas pastas, incluindo:
 
-1. <strong>  <a href=''> Linha de Comando (CLI) </a>: </strong>   Uso prática e eficaz da linha de comando para executar tarefas cotidianas, desde navegação até manipulação de arquivos e diretórios.
+1. <strong>  <a href='/1. Linha de comando (CLI)/cli.md'> Linha de Comando (CLI) </a>: </strong>   Uso prática e eficaz da linha de comando para executar tarefas cotidianas, desde navegação até manipulação de arquivos e diretórios.
 
 2. <strong>  <a href=''>   NPM (Node Package Manager) </a>:  </strong> Gerenciamento de dependências, scripts e pacotes NodeJS de forma eficaz para otimizar o fluxo de trabalho de desenvolvimento.
 
