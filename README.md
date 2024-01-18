@@ -1,19 +1,19 @@
 
 
 
-<h1 align="center"> Git</h1>
+<h1 align="center"> Automação Front-end</h1>
 
 [comment]: <> (Adicione o seu usuário  e o nome do repositório)
 
 <p align="center">
   <image
-  src="https://img.shields.io/github/languages/count/ojonatasquirino/git"
+  src="https://img.shields.io/github/languages/count/ojonatasquirino/automacao-front"
   />
   <image
-  src="https://img.shields.io/github/languages/top/ojonatasquirino/git"
+  src="https://img.shields.io/github/languages/top/ojonatasquirino/automacao-front"
   />
   <image
-  src="https://img.shields.io/github/last-commit/ojonatasquirino/git"
+  src="https://img.shields.io/github/last-commit/ojonatasquirino/automacao-front"
   />
 
 </p>
@@ -33,16 +33,24 @@
 # objetivos <a name="id01"></a>
 
 
-Este é um guia abrangente para iniciantes que desejam compreender o que é <strong>linha de comando (CLI)</strong>, aprender a utilizar o <strong>Git</strong> para controle de versão, explorar o <strong>NPM</strong> para gerenciamento de pacotes, e mergulhar em conceitos avançados como <strong></strong>Babel. Desde os fundamentos até curiosidades, este recurso centraliza informações valiosas para facilitar seu aprendizado.
-
+Este é um guia abrangente que explora as práticas fundamentais de automação no desenvolvimento front-end. Aqui, você encontrará informações úteis sobre a linha de comando, git, NPM, ESLint, Webpack, Babel e outras ferramentas essenciais. Ideal para iniciantes que desejam compreender e aqueles que desejam aprimorar suas habilidades de automação no ambiente de desenvolvimento web.
 
 
 # descrição detalhada <a name="id01.01"></a>
+Aqui trarei um recurso panorâmico projetado para orientar desenvolvedores front-end no ambiente da automação. Este repositório aborda diversos tópicos em suas respectivas pastas, incluindo:
+
+1. <strong>  <a href=''> Linha de Comando (CLI) </a>: </strong>   Uso prática e eficaz da linha de comando para executar tarefas cotidianas, desde navegação até manipulação de arquivos e diretórios.
+
+2. <strong>  <a href=''>   NPM (Node Package Manager) </a>:  </strong> Gerenciamento de dependências, scripts e pacotes NodeJS de forma eficaz para otimizar o fluxo de trabalho de desenvolvimento.
+
+3. <strong>  <a href=''> Git  </a>:  </strong>  Exploração das melhores práticas do Git para controle de versão, colaboração eficiente e gerenciamento de branches em projetos front-end.
 
 
- Elaborei esse recurso didático para proporcionar uma compreensão das ferramentas essenciais no desenvolvimento de software. Este guia abrange tópicos cruciais, desde comandos básicos da linha de comando até técnicas de controle de versão com o <strong>Git</strong> e ecossistema do<strong> Node Package Manager (NPM)</strong>  para eficiente gerenciamento de dependências em projetos.
+4. <strong> <a href=''> ESLint </a> : </strong>   Utilização do ESLint para manter um código JavaScript consistente, identificando e corrigindo padrões problemáticos.
 
-Além disso, mergulhe nos intrincados processos de transpilação de código-fonte utilizando o Babel, uma ferramenta poderosa para garantir a compatibilidade e o desempenho do código em diferentes ambientes. Navegue por seções repletas de dicas práticas, exemplos de uso e curiosidades, tudo projetado para acelerar sua curva de aprendizado.
+5. <strong>  <a href=''> Webpack  </a>:   </strong>  Utilização do Webpack para modularizar e otimizar o código, gerenciando eficientemente dependências e recursos.
+
+6. <strong>  <a href=''> Babel </a>: </strong>   Compreensão do papel do Babel na transpilação de código ECMAScript moderno para versões compatíveis com navegadores.
 
 # tecnologias de estudo <a name="id04"></a>
 
@@ -58,8 +66,9 @@ Além disso, mergulhe nos intrincados processos de transpilação de código-fon
 
 <div  align='center'> 
 
- [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-![curso](https://img.shields.io/badge/rocketseat-0D1117?style=for-the-badge&logo=Databricks&logoColor=blue)
+[![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=red)](https://docs.npmjs.com/about-npm/)
+![curso](https://img.shields.io/badge/origamid-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
 </div>
 
 # ambiente de codificação <a name="id05"></a>
@@ -78,7 +87,7 @@ Além disso, mergulhe nos intrincados processos de transpilação de código-fon
 Clone este repositório usando o comando:
 
 ```bash
-git clone https://github.com/ojonatasquirino/git.git
+git clone https://github.com/ojonatasquirino/automacao-front.git
 ```
 
 Instale na pasta do projeto as dependências com uso do npm ou yarn:
