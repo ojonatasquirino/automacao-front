@@ -33,7 +33,7 @@
 # objetivos <a name="id01"></a>
 
 
-Este é um guia abrangente que explora as práticas fundamentais de automação no desenvolvimento front-end. Aqui, você encontrará informações úteis sobre a linha de comando, git, NPM, ESLint, Webpack, Babel e outras ferramentas essenciais. Ideal para iniciantes que desejam compreender e aqueles que desejam aprimorar suas habilidades de automação no ambiente de desenvolvimento web.
+Este é um guia abrangente que explora as práticas fundamentais de automação no desenvolvimento front-end. Aqui, você encontrará informações úteis sobre CLI (linha de comando), Git, NPM, ESLint, Webpack, Babel e outras ferramentas essenciais. Ideal para iniciantes que desejam compreender e aqueles que desejam aprimorar suas habilidades de automação no ambiente de desenvolvimento web.
 
 
 # descrição detalhada <a name="id01.01"></a>
