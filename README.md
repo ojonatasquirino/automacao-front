@@ -59,6 +59,7 @@ Aqui trarei um recurso panorâmico projetado para orientar desenvolvedores front
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/terminal-0D1117?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![](https://img.shields.io/badge/eslint-0D1117?style=for-the-badge&logo=eslint&logoColor=3A33D1)
 ![](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=red)
 </div>
 
