@@ -33,11 +33,11 @@
 # objetivos <a name="id01"></a>
 
 
-Este é um guia abrangente que explora as práticas fundamentais de automação no desenvolvimento front-end. Aqui, você encontrará informações úteis sobre CLI (linha de comando), Git, NPM, ESLint, Webpack, Babel e outras ferramentas essenciais. Ideal para iniciantes que desejam compreender e aqueles que desejam aprimorar suas habilidades de automação no ambiente de desenvolvimento web.
+Este é um guia abrangente que explora as práticas fundamentais de automação no desenvolvimento de software. Aqui, quero documentar informações e conceitos úteis que queria receber no início dos meus estudos em programação sobre CLI (linha de comando), Git, NPM, ESLint, Webpack, Babel e outras ferramentas essenciais.
 
 
 # descrição detalhada <a name="id01.01"></a>
-Aqui trarei um recurso panorâmico projetado para orientar desenvolvedores front-end no ambiente da automação. Este repositório aborda diversos tópicos em suas respectivas pastas, incluindo:
+Aqui trarei um recurso panorâmico projetado para orientar desenvolvedores front-end no ambiente da automação com as ferramentas necessárias para o desenvolvimento. Este repositório aborda diversos tópicos em suas respectivas pastas, incluindo:
 
 1. <strong>  <a href='/1. Linha de comando (CLI)/cli.md'> Linha de Comando (CLI) </a>: </strong>   Uso prática e eficaz da linha de comando para executar tarefas cotidianas, desde navegação até manipulação de arquivos e diretórios.
 
