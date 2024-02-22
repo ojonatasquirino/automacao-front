@@ -43,14 +43,14 @@ Aqui trarei um recurso panorâmico projetado para orientar desenvolvedores front
 
 2. <strong>  <a href='/2. NPM/npm.md'>   NPM (Node Package Manager) </a>:  </strong> Gerenciamento de dependências, scripts e pacotes NodeJS de forma eficaz para otimizar o fluxo de trabalho de desenvolvimento.
 
-3. <strong>  <a href=''> Git  </a>:  </strong>  Exploração das melhores práticas do Git para controle de versão, colaboração eficiente e gerenciamento de branches em projetos front-end.
+3. <strong>  <a href='/6. Git/git.md'> Git  </a>:  </strong>  Exploração das melhores práticas do Git para controle de versão, colaboração eficiente e gerenciamento de branches em projetos front-end.
 
 
-4. <strong> <a href=''> ESLint </a> : </strong>   Utilização do ESLint para manter um código JavaScript consistente, identificando e corrigindo padrões problemáticos.
+4. <strong> <a href='/3. ESLint/eslint.md'> ESLint </a> : </strong>   Utilização do ESLint para manter um código JavaScript consistente, identificando e corrigindo padrões problemáticos.
 
-5. <strong>  <a href=''> Webpack  </a>:   </strong>  Utilização do Webpack para modularizar e otimizar o código, gerenciando eficientemente dependências e recursos.
+5. <strong>  <a href='/4. Webpack/webpack.md'> Webpack  </a>:   </strong>  Utilização do Webpack para modularizar e otimizar o código, gerenciando eficientemente dependências e recursos.
 
-6. <strong>  <a href=''> Babel </a>: </strong>   Compreensão do papel do Babel na transpilação de código ECMAScript moderno para versões compatíveis com navegadores.
+6. <strong>  <a href='/5. Babel/babel.md'> Babel </a>: </strong>   Compreensão do papel do Babel na transpilação de código ECMAScript moderno para versões compatíveis com navegadores.
 
 # tecnologias de estudo <a name="id04"></a>
 
