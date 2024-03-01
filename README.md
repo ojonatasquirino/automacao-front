@@ -67,7 +67,7 @@ Aqui trarei um recurso panorâmico projetado para orientar desenvolvedores front
 
 <div  align='center'> 
 
-[![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+![MDN](https://img.shields.io/badge/youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=red)
 [![](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=red)](https://docs.npmjs.com/about-npm/)
 ![curso](https://img.shields.io/badge/origamid-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
 </div>
