@@ -21,7 +21,7 @@
 # sumário 
 
 - [objetivos](#id01)
-- [descrição detalhada](#id01.01)
+- [descrição detalhada do repositório](#id01.01)
 - [tecnologias de estudos](#id04)
 - - [documentação e cursos](#id04.01)
 - [ambiente de codificação](#id05)
@@ -36,7 +36,7 @@
 Este é um guia abrangente que explora as práticas fundamentais de automação no desenvolvimento de software. Aqui, quero documentar informações e conceitos úteis que queria receber no início dos meus estudos em programação sobre CLI (linha de comando), Git, NPM, ESLint, Webpack, Babel e outras ferramentas essenciais.
 
 
-# descrição detalhada <a name="id01.01"></a>
+# descrição detalhada do repositório <a name="id01.01"></a>
 Aqui trarei um recurso panorâmico projetado para orientar desenvolvedores front-end no ambiente da automação com as ferramentas necessárias para o desenvolvimento. Este repositório aborda diversos tópicos em suas respectivas pastas, incluindo:
 
 1. <strong>  <a href='/1. Linha de comando (CLI)/cli.md'> Linha de Comando (CLI) </a>: </strong>   Uso prática e eficaz da linha de comando para executar tarefas cotidianas, desde navegação até manipulação de arquivos e diretórios.
@@ -67,7 +67,7 @@ Aqui trarei um recurso panorâmico projetado para orientar desenvolvedores front
 
 <div  align='center'> 
 
-[![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+![MDN](https://img.shields.io/badge/youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=red)
 [![](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=red)](https://docs.npmjs.com/about-npm/)
 ![curso](https://img.shields.io/badge/origamid-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
 </div>
