@@ -12,9 +12,19 @@ Acesse o site oficial <strong> <a href='https://eslint.org/'>eslint.org </a> </s
 
 Para instalar o ESLint em um projeto NodeJS, basta executar o seguinte comando no terminal:
 
+Instalação global:
 ```bash
-npm install eslint --save-dev
+$ npm install eslint -g
 ```
+
+```bash
+$ npm init
+```
+
+```bash
+$ eslint --init
+```
+
 Isso instalará o ESLint como uma dependência de desenvolvimento no projeto.
 
 ## Motivos para usar o ESLint
