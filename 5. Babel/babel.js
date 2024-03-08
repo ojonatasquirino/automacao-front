@@ -18,6 +18,8 @@ console.log("Name: " + name + ", Age: " + age);
 
 ⇾ Ex. de Arrow Functions de ES6+ para ES5+
 
+• ES6+:
+
 const greet = (name) => {
   return `Hello, ${name}!`;
 };
