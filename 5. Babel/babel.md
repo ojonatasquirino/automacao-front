@@ -78,3 +78,7 @@ Permite que você use a sintaxe de módulos do ES6 (import/export) e a converta 
 ### 3. Utilizando Sintaxe de Async/Await:
 
 Permite que você escreva código assíncrono de forma mais limpa e legível usando as palavras-chave async/await e as converta para uma versão que funcione em navegadores mais antigos.
+
+## Exemplificação prática
+
+Acesse o **<a href='/5. Babel/babel.js'> arquivo JS </a>** e veja alguns. 
