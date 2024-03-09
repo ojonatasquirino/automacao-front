@@ -81,4 +81,4 @@ Permite que você escreva código assíncrono de forma mais limpa e legível usa
 
 ## Exemplificação prática
 
-Acesse o **<a href='/5. Babel/babel.js'> arquivo JS </a>** e veja alguns. 
+Acesse o **<a href='/5. Babel/babel.js'> arquivo JS </a>** e veja alguns exemplos de código JavaScript usando recursos modernos do ES6+ e mostrar como eles são transformados pelo Babel após o processo de compilação. 
