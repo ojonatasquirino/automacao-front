@@ -1,7 +1,7 @@
 # NPM (Node Package Manager)
 
 <blockquote>
- O NPM é um gerenciador de pacotes que simplifica a instalação, atualização e remoção de bibliotecas e ferramentas JavaScript no ambiente Node.js. Os pacotes podem incluir bibliotecas de código, frameworks, utilitários e até mesmo aplicações completas. Para verificar mais detalhadamente sua documentação, acesse:
+ O NPM é um gerenciador de pacotes que simplifica a instalação, atualização e remoção de bibliotecas e ferramentas JavaScript no ambiente NodeJS. Os pacotes podem incluir bibliotecas de código, frameworks, utilitários e até mesmo aplicações completas. Para verificar mais detalhadamente sua documentação, acesse:
 <strong> <a href='https://docs.npmjs.com/'>docs.npmjs.com </a> </strong>
 </blockquote>
 
@@ -91,6 +91,8 @@ Os scripts definidos no package.json simplificam e automatizam tarefas repetitiv
 
 #
 Em resumo, o **package.json** é um componente essencial para o desenvolvimento NodeJS, fornecendo informações cruciais para o NPM gerenciar dependências, executar scripts personalizados e garantir a reprodutibilidade e consistência em projetos JavaScript.
+
+Para um maior aprofundamento sobre o tema, acesse o <a href='https://www.youtube.com/playlist?list=PLbV6TI03ZWYVjruiKLeb3m2rEXeYsG6RQ'>curso gratuito de NPM</a> do Daniel Berg disponível no Youtube.
 
 
 
