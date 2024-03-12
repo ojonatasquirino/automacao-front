@@ -45,14 +45,14 @@ npx webpack
 
 ## Exemplos práticos no ambiente de desenvolvimento
 
-1. Empacotamento de Módulos JavaScript:
+### 1. Empacotamento de Módulos JavaScript:
 
 Permite que você organize seu código JavaScript em módulos separados e os agrupe em pacotes para carregamento eficiente no navegador.
 
-2. Carregamento Sob Demanda (Lazy Loading):
+### 2. Carregamento Sob Demanda (Lazy Loading):
 
 Permite que você carregue partes do seu aplicativo apenas quando necessário, reduzindo o tempo de carregamento inicial e melhorando o desempenho geral.
 
-3. Otimização de Imagens e Outros Recursos:
+### 3. Otimização de Imagens e Outros Recursos:
 
 Permite que você otimize automaticamente imagens, fontes e outros recursos para reduzir o tamanho dos arquivos e melhorar o desempenho do aplicativo.
